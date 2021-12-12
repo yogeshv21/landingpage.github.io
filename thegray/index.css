@@ -272,9 +272,9 @@ html,body{
 
     #main #nav{
         height: 40px;
-        width: 100px;
+        width: 90%;
         top: 18px;
-        left: 8%;
+        left: 5%;
         z-index: 10;
     }
 
@@ -302,7 +302,7 @@ html,body{
     }
 
     #nav i{
-        margin-left: 80px;
+        margin-left: 0px;
         margin-top: 5px;
     }
 
